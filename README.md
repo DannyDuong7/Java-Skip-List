@@ -1,5 +1,5 @@
 # Java-Skip-List
-CS3345 Project for Java Skip List: 
+CS3345 Project for Java Skip List 2019: 
 
 Implement the following operations of skip lists, following the
 algorithms discussed in class. Starter code is provided.  A driver program is also provided.
